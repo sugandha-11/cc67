@@ -67,7 +67,7 @@ export default class App extends React.Component {
                 soundChunk={this.state.phonicSounds[index]}
                 buttonIndex={index}
               />
-            );
+            )
           })}
         </View>
       </View>
